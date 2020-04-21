@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import axios from "axios";
 
-import Card from "./components/Card.js"
+import Card from "./components/card/Card.js"
 
 
 class App extends Component {
